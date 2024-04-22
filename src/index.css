@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --main-green: #007d72;
+    --light-green: #008000;
+    --dark-green: #35625b;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+    scroll-behavior: smooth;
+}
